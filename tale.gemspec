@@ -1,10 +1,10 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "tale"
+  spec.name          = "codenote"
   spec.version       = "0.2.3"
-  spec.authors       = ["Chester How"]
-  spec.email         = ["chesterhow@gmail.com"]
+  spec.authors       = ["kubrikk"]
+  spec.email         = ["k1306969@gmail.com"]
 
   spec.summary       = %q{Tale is a minimal Jekyll theme curated for storytellers.}
   spec.homepage      = "https://github.com/chesterhow/tale"
