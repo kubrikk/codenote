@@ -23,11 +23,18 @@ sass:
   sass_dir:     _sass
   style:        compressed
 
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
 # Gems
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-remote-theme
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
