@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Codenote
+description:    "Заметки и алгоритмы"
 url:            "https://kubrikk.github.io/codenote"
 
 # Google Analytics
@@ -8,12 +8,14 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
+  name:         kubrikk
   url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        k1306969@gmail.com
 
 # Build settings
 markdown:       kramdown
+kramdown:
+    math_engine: katex
 include:
   - _pages
 
