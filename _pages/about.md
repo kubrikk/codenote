@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "About"
-author: "Chester"
+title: "Описание"
+author: "kubrikk"
 permalink: /about/
 ---
 
