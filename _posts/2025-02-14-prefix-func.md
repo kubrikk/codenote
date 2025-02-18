@@ -19,7 +19,7 @@ katex: True
 <!-- Пусть дана строка $s = s_0s_1s_2...s_{n-1}$ длины $n$, где $s_i$ – символ строки на позиции $i$. 
 **Префикс-функция** $\pi$ для строки $s$ – это массив  -->
 
-```cpp
+{% highlight cpp  linenos %}
 /**
  * Реализация префикс-функции, работающей за O(n^3),
  * где n -- длина строки line. 
@@ -41,7 +41,7 @@ vector<int> slow_prefix_function(const string& line) {
 
     return prefix_value;
 }
-```
+{% endhighlight %}
 
 ```cpp
 /**
