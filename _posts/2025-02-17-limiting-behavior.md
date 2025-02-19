@@ -11,5 +11,5 @@ katex: True
 
 Когда речь идет о комбинаторных задачах, полный перебор всех возможных вариантов может работать для небольших наборов данных, но быстро становится неприемлемым по мере увеличения размера входных данных. Например, если задача сводится к проверке всех перестановок чисел от $$1$$ до $$n$$, то количество проверяемых перестановок равно $$n!$$, что делает полный перебор практически нереализуемым.
 
-<img src="/assets/images/limiting-behavior/tetta.png" class="img-responsive" alt="" />
-​![Ограничение снизу и сверху](/assets/images/limiting-behavior/tetta.png)
+<img src="{{site.baseurl}}/assets/images/limiting-behavior/tetta.png" class="img-responsive" alt="">
+​![Ограничение снизу и сверху]({{site.baseurl}}/assets/images/limiting-behavior/tetta.png)
