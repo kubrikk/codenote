@@ -45,9 +45,10 @@ vector<int> slow_prefix_function(const string& line) {
 
 <details>
     <summary>Dropdown Menu</summary>
-    ```cpp
+
+    {% highlight cpp %}
     vector<int> prefix_value(line.size(), 0);
-    ```
+    {% endhighlight %}
 
 </details>
 
