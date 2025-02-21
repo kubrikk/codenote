@@ -43,6 +43,13 @@ vector<int> slow_prefix_function(const string& line) {
 }
 {% endhighlight %}
 
+<details>
+  <summary>Dropdown Menu</summary>
+  - Option 1
+  - Option 2
+  - Option 3
+</details>
+
 ```cpp
 /**
  * Реализация префикс-функции, работающей за O(n),
