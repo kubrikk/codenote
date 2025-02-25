@@ -3,6 +3,7 @@ layout: post
 title: "Бинарный поиск"
 author: "kubrikk"
 tags: "Бинарный-поиск"
+permalink: binary-search
 katex: True
 ---
 

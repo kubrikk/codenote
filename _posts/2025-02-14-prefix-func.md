@@ -43,17 +43,6 @@ vector<int> slow_prefix_function(const string& line) {
 }
 {% endhighlight %}
 
-<details>
-<summary>Dropdown Menu</summary>
-
-{% highlight cpp %}
-vector<int> prefix_value(line.size(), 0);
-{% endhighlight %}
-
-Массив `prefix_value` инициализируется нулями и имеет размер, равный длине строки `line`. Каждый элемент `prefix_value[i]` будет хранить длину наибольшего префикса, который является суффиксом для подстроки `line[0..i]`.
-
-</details>
-
 ---
 
 
