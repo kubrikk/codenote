@@ -3,6 +3,7 @@ layout: post
 title: "История динамического программирования"
 author: "kubrikk"
 tags: "История DP"
+permalink: dynamic-programming
 katex: True
 ---
 
