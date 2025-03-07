@@ -9,7 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         kubrikk
-  url:          https://chester.how
+  url:          "https://kubrikk.github.io/codenote"
   email:        k1306969@gmail.com
 
 # Build settings
@@ -36,6 +36,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-remote-theme
+  - jekyll-toc
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
