@@ -18,8 +18,12 @@ ___Левосторонний бинарный поиск___ (*сокр.* $$\tex
 1. Использование полуинтервалов позволяет избежать путаницы с включением или исключением границ. 
 2. Полуинтервалы гарантируют, что цикл завершится, и не возникнет бесконечного зацикливания.
 
-<img src="{{site.baseurl}}/assets/images/binary-search/leftside-binary-search.png" class="img-responsive">
+    <img src="{{site.baseurl}}/assets/images/binary-search/leftside-binary-search.png" class="img-responsive">
+    <em>Подпись к изображению</em>
 
+
+<img src="{{site.baseurl}}/assets/images/binary-search/leftside-binary-search_2.png" class="img-responsive">
+<em>Подпись к изображению</em>
 
 
 ### Пример реализации
